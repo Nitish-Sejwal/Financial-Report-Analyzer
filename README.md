@@ -1,6 +1,6 @@
 # Financial Report Analyzer
 
-A RAG (Retrieval-Augmented Generation) based system for querying financial PDF reports — built as an academic project. Ask natural-language questions about financial filings (e.g. 10-Ks, annual reports) and get answers grounded in the actual document content.
+A RAG (Retrieval-Augmented Generation) based system for querying financial PDF reports — built as an academic project. Ask natural-language questions about financial filings and get answers grounded in the actual document content.
 
 ## How It Works
 
